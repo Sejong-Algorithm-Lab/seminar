@@ -5,7 +5,7 @@
 
 |차시|주제|자료|발표자|
 |:---:|---|:---:|:---:|
-|1|개요, 시간복잡도, STL, 정렬, 브루트포스|[PDF]()|[한정환](https://github.com/pizzaroot)|
+|1|개요, 시간복잡도, STL, 정렬, 브루트포스|[PDF](https://github.com/Sejong-Algorithm-Lab/seminar/blob/main/2024/1.pdf)|[한정환](https://github.com/pizzaroot)|
 
 
 ## License
