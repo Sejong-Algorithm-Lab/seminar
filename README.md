@@ -7,6 +7,7 @@
 |:---:|---|:---:|:---:|
 |1|개요, 시간복잡도, STL, 정렬, 브루트포스|[PDF](https://github.com/Sejong-Algorithm-Lab/seminar/blob/main/2024/1.pdf)|[한정환](https://github.com/pizzaroot)|
 |2|그리디 알고리즘|[PDF](https://github.com/Sejong-Algorithm-Lab/seminar/blob/main/2024/2.pdf)|[한정환](https://github.com/pizzaroot)|
+|3|다이나믹 프로그래밍|[PDF](https://github.com/Sejong-Algorithm-Lab/seminar/blob/main/2024/3.pdf)|[한정환](https://github.com/pizzaroot)|
 
 ## License
 <a href=https://ccl.cckorea.org/about/><img src=https://github.com/KU-AlKon/study/assets/31026350/8ec33313-8d52-4663-8214-eed230c33ed2 width=100px></a>
